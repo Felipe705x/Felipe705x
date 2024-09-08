@@ -24,7 +24,6 @@ My name is Felipe Avendaño, I'm a Chilean Computer Science & Engineering studen
 ![numpy](https://img.shields.io/badge/numpy-6699ff?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-
 <!---
 Felipe705x/Felipe705x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
