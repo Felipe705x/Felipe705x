@@ -4,10 +4,10 @@ My name is Felipe Avendaño, I'm a Chilean Computer Science & Engineering studen
 
 ### Languages:
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-006EAD?style=for-the-badge&logo=C&logoColor=white)
 ![CPP](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Golang]([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge))
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
