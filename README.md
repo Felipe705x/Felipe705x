@@ -1,6 +1,8 @@
 # Hello World!
 
-My name is Felipe Avendaño, I'm a Chilean Computer Science & Engineering student from Universidad de Chile and an Associate Software Engineer working in Nirvana Insurance. Welcome to my GitHub profile!
+My name is Felipe Avendaño, I'm a Chilean **Computer Science & Engineering** student from _Universidad de Chile_ and an **Associate Software Engineer** working in **Nirvana Insurance** <img src="https://www.google.com/s2/favicons?domain=nirvanatech.com&sz=32" height="20" width="20" align="center"/>. 
+
+**Welcome to my GitHub profile!**
 
 ### Languages:
 
