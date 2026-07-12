@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is Felipe Avendaño, I'm a Chilean **Computer Science & Engineering** student from _Universidad de Chile_ and an **Associate Software Engineer** working in **Nirvana Insurance** <img src="https://www.google.com/s2/favicons?domain=nirvanatech.com&sz=32" height="20" width="20" align="center"/>. 
+My name is Felipe Avendaño, I'm a Chilean **Computer Science & Engineering** student from _Universidad de Chile_ and an **Associate Software Engineer** working in **Vega Claims** <img width="20" height="20" align="center" src="https://github.com/user-attachments/assets/785d0c72-47ed-4051-ac6d-8b4ba2f20490" />
 
 **Welcome to my GitHub profile!**
 
